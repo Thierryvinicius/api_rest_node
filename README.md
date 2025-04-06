@@ -18,8 +18,7 @@ Uma API RESTful simples construída com **Node.js**, **Express**, **Prisma** e *
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/Thierryvinicius/api_rest_node.git
 ```
 
 ### 2. Instale as dependências
